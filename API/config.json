@@ -4,5 +4,5 @@
     "USER" : "root",
     "PASS" : "password for your db",
     "HOST" : "where your database resides",
-    "DBNAME" : "maps_db"
+    "DBNAME" : "YOUR DATABASES NAME"
 }
